@@ -1,0 +1,11 @@
+#staging your changes
+git add *
+
+#commiting your changes 
+git commit -m 'changes made'
+
+#pushing your changes
+git push -u origin master
+
+#pulling changes made to the remote
+git pull origin master
